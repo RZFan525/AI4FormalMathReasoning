@@ -184,7 +184,13 @@ Conference on Logic for Programming, Artificial Intelligence and Reasoning 2017*
 
    *Z.Z. Ren, Zhihong Shao, Junxiao Song, Huajian Xin, Haocheng Wang, Wanjia Zhao, Liyue Zhang, Zhe Fu, Qihao Zhu, Dejian Yang, Z.F. Wu, Zhibin Gou, Shirong Ma, Hongxuan Tang, Yuxuan Liu, Wenjun Gao, Daya Guo, Chong Ruan*
 
+1. **From Informal to Formal -- Incorporating and Evaluating LLMs on Natural Language Requirements to Verifiable Formal Proofs.** *arXiv preprint 2025* [[pdf](https://arxiv.org/abs/2501.16207)] [[huggingface](https://huggingface.co/fm-universe)]
+
+   *Jialun Cao, Yaojie Lu, Meiziniu Li, Haoyang Ma, Haokun Li, Mengda He, Cheng Wen, Le Sun, Hongyu Zhang, Shengchao Qin, Shing-Chi Cheung, Cong Tian*
+
 1. **Beyond Theorem Proving: Formulation, Framework and Benchmark for Formal Problem-Solving.** *arXiv preprint 2025* [[pdf](https://arxiv.org/abs/2505.04528)] [[code](https://github.com/Purewhite2019/formal_problem_solving_main)]
+
+   *Qi Liu, Xinhao Zheng, Renqiu Xia, Xingzhi Qi, Qinxiang Cao, Junchi Yan*
 
 ## Synthetic Theorem Generation
 
