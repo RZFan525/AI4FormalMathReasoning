@@ -241,6 +241,9 @@ Conference on Logic for Programming, Artificial Intelligence and Reasoning 2017*
 
     *Ruida Wang, Jipeng Zhang, Yizhen Jia, Rui Pan, Shizhe Diao, Renjie Pi, Tong Zhang*
 
+1. **Don't Trust: Verify -- Grounding LLM Quantitative Reasoning with Autoformalization** *ICLR 2024* [[pdf](https://arxiv.org/abs/2403.18120)] [[code](https://github.com/jinpz/dtv)]
+
+   *Jin Peng Zhou, Charles Staats, Wenda Li, Christian Szegedy, Kilian Q. Weinberger, Yuhuai Wu*
 
 ## Proof Refactoring
 
@@ -341,10 +344,13 @@ Conference on Logic for Programming, Artificial Intelligence and Reasoning 2017*
 
     *Yinya Huang, Xiaohan Lin, Zhengying Liu, Qingxing Cao, Huajian Xin, Haiming Wang, Zhenguo Li, Linqi Song, Xiaodan Liang*
 
+1. **PutnamBench: Evaluating Neural Theorem-Provers on the Putnam Mathematical Competition.** *NeurIPS 2024* [[pdf](https://arxiv.org/abs/2407.11214)][[code](https://github.com/TrishulLab/PutnamBench)]
+
+   *George Tsoukalas, Jasper Lee, John Jennings, Jimmy Xin, Michelle Ding, Michael Jennings, Amitayush Thakur, Swarat Chaudhuri*
+
 1. **ATG: Benchmarking Automated Theorem Generation for Generative Language Models.** *NAACL 2024* [[pdf](https://openreview.net/forum?id=H0RzzhAxTv)]
 
     *Xiaohan Lin, Qingxing Cao, Yinya Huang, Zhicheng Yang, Zhengying Liu, Zhenguo Li, Xiaodan Liang*
-
 1. **FormalMATH: Benchmarking Formal Mathematical Reasoning of Large Language Models** *arXiv preprint 2025* [[pdf](https://arxiv.org/abs/2505.02735)][[code](https://github.com/Sphere-AI-Lab/FormalMATH-Bench)]
 
    *Zhouliang Yu, Ruotian Peng, Keyi Ding, Yizhe Li, Zhongyuan Peng, Minghao Liu, Yifan Zhang, Zheng Yuan, Huajian Xin, Wenhao Huang, Yandong Wen, Ge Zhang, Weiyang Liu*
