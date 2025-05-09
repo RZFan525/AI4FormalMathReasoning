@@ -348,7 +348,7 @@ Conference on Logic for Programming, Artificial Intelligence and Reasoning 2017*
 
    *George Tsoukalas, Jasper Lee, John Jennings, Jimmy Xin, Michelle Ding, Michael Jennings, Amitayush Thakur, Swarat Chaudhuri*
 
-1. **ATG: Benchmarking Automated Theorem Generation for Generative Language Models.** *NAACL 2024* [[pdf](https://openreview.net/forum?id=H0RzzhAxTv)]
+1. **ATG: Benchmarking Automated Theorem Generation for Generative Language Models.** *NAACL 2024* [[pdf](https://arxiv.org/abs/2405.06677)]
 
     *Xiaohan Lin, Qingxing Cao, Yinya Huang, Zhicheng Yang, Zhengying Liu, Zhenguo Li, Xiaodan Liang*
 1. **FormalMATH: Benchmarking Formal Mathematical Reasoning of Large Language Models** *arXiv preprint 2025* [[pdf](https://arxiv.org/abs/2505.02735)][[code](https://github.com/Sphere-AI-Lab/FormalMATH-Bench)]
