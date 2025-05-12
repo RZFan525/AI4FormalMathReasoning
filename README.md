@@ -13,6 +13,10 @@
 - [Constructing Examples / Counterexamples](#constructing-examples--counterexamples)
 
 ## Position Paper
+1. **A Survey on Deep Learning for Theorem Proving.** *COLM 2024* [[pdf](https://arxiv.org/abs/2404.09939)] [[code](https://github.com/zhaoyu-li/DL4TP)]
+
+   *Zhaoyu Li, Jialiang Sun, Logan Murphy, Qidong Su, Zenan Li, Xian Zhang, Kaiyu Yang, Xujie Si*
+
 1. **Formal Mathematical Reasoning: A New Frontier in AI.** *arXiv preprint 2025* [[pdf](https://arxiv.org/abs/2412.16075)]
 
    *Kaiyu Yang, Gabriel Poesia, Jingxuan He, Wenda Li, Kristin Lauter, Swarat Chaudhuri, Dawn Song*   
@@ -175,6 +179,14 @@ Conference on Logic for Programming, Artificial Intelligence and Reasoning 2017*
 1. **DeepSeek-Prover-V1.5: Harnessing Proof Assistant Feedback for Reinforcement Learning and Monte-Carlo Tree Search.** *arXiv preprint 2024* [[pdf](https://www.arxiv.org/pdf/2408.08152)] [[code](https://github.com/deepseek-ai/DeepSeek-Prover-V1.5)]
 
     *Huajian Xin, Z.Z. Ren, Junxiao Song, Zhihong Shao, Wanjia Zhao, Haocheng Wang, Bo Liu, Liyue Zhang, Xuan Lu, Qiushi Du, Wenjun Gao, Qihao Zhu, Dejian Yang, Zhibin Gou, Z.F. Wu, Fuli Luo, Chong Ruan*
+
+1. **Goedel-Prover: A Frontier Model for Open-Source Automated Theorem Proving.** *arXiv preprint 2025* [[pdf](https://arxiv.org/abs/2502.07640)]
+
+   *Yong Lin, Shange Tang, Bohan Lyu, Jiayun Wu, Hongzhou Lin, Kaiyu Yang, Jia Li, Mengzhou Xia, Danqi Chen, Sanjeev Arora, Chi Jin*
+
+1. **Proving Olympiad Inequalities by Synergizing LLMs and Symbolic Reasoning** *ICLR 2025* [[pdf](https://arxiv.org/abs/2502.13834)] [[code](https://github.com/Lizn-zn/NeqLIPS/)]
+
+   *Zenan Li, Zhaoyu Li, Wen Tang, Xian Zhang, Yuan Yao, Xujie Si, Fan Yang, Kaiyu Yang, Xiaoxing Ma*
 
 1. **Kimina-Prover Preview: Towards Large Formal Reasoning Models with Reinforcement Learning.** *arXiv preprint 2025* [[pdf](https://arxiv.org/abs/2504.11354)] [[code](https://github.com/MoonshotAI/Kimina-Prover-Preview)]
 
